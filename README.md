@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aidaanky/aidaanky/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aidaanky/aidaanky/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
