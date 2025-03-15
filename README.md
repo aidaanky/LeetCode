@@ -47,4 +47,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aidaanky/aidaanky/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aidaanky/aidaanky/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
