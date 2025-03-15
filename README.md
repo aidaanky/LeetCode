@@ -30,4 +30,12 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aidaanky/aidaanky/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aidaanky/aidaanky/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aidaanky/aidaanky/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
