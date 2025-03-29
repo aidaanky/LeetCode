@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aidaanky/aidaanky/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aidaanky/aidaanky/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aidaanky/aidaanky/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aidaanky/aidaanky/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
