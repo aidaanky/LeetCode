@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aidaanky/aidaanky/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aidaanky/aidaanky/tree/master/0020-valid-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/aidaanky/aidaanky/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aidaanky/aidaanky/tree/master/0088-merge-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/aidaanky/aidaanky/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
