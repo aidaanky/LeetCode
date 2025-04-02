@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aidaanky/aidaanky/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aidaanky/aidaanky/tree/master/0020-valid-parentheses) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/aidaanky/aidaanky/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/aidaanky/aidaanky/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0069-sqrtx](https://github.com/aidaanky/aidaanky/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aidaanky/aidaanky/tree/master/0070-climbing-stairs) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/aidaanky/aidaanky/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Binary Search
 |  |
 | ------- |
