@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aidaanky/aidaanky/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aidaanky/aidaanky/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/aidaanky/aidaanky/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
